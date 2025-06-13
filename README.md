@@ -38,13 +38,11 @@ Usage: `./minesweeper.sh`
 
 Key | Command
 --- | ---
-key | board   size   mines
-n | Small   10*10  15
-N | Medium  15*15  33
-m | Large   20*20  60
-M | Extra   30*20  90 
-r | redraw the board
-q | quit the script
+`g` / `Space` / `Enter`| Step
+`f` / `0` | Flag
+`n` | New
+`r` | redraw the board
+`q` | quit the script
 
 ## Dependencies
 
